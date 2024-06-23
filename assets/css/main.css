@@ -1,0 +1,29 @@
+/* Use custom CSS with TailwindCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .article-title {
+    @apply uppercase tracking-widest font-semibold text-amber-800 text-xl;
+  }
+
+  .content-title-1 {
+    @apply uppercase tracking-widest font-semibold text-amber-700 text-lg;
+  }
+  .content-title-2 {
+    @apply uppercase tracking-wider font-medium text-amber-700 text-base;
+  }
+  .content-title-3 {
+    @apply uppercase tracking-wide font-semibold text-amber-700 text-base;
+  }
+  .content-title-4 {
+    @apply uppercase tracking-wide font-medium text-amber-700 text-base;
+  }
+  .content-title-5 {
+    @apply tracking-widest font-semibold text-amber-700 text-sm;
+  }
+  .content-title-6 {
+    @apply tracking-widest font-medium text-amber-700 text-sm;
+  }
+}
