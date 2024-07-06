@@ -30,14 +30,14 @@ Pour 4 personnes
 
 # Préparation
 
-- Sortez le beurre du réfrigérateur et laissez-le ramollir.
-- Faites revenir les légumes dans une sauteuse, avec l'oignon, l'ail, et la viande hâchée, comme pour une ratatouille : à l'huile d'olive, bien sûr!
-- Laissez cuire pendant **25 à 30 min**.
-- Pendant ce temps, mettez la farine dans un saladier et ajoutez le beurre préalablement découpé en petits carrés.
-- Travaillez le tout pour obtenir une **chapelure sablée** et bien fine. Ajoutez ensuite le parmesan.
-- Préchauffez le four à **150°C** (th 5).
-- Quand les légumes sont prêts, placez-les dans un plat à gratin assez profond et déposez la **chapelure** au-dessus.
-- Faites cuire au four pendant **30 min**. Placez une feuille de papier alu au-dessus du plat, si la **chapelure** brunit trop.
+1) Sortez le beurre du réfrigérateur et laissez-le ramollir.
+2) Faites revenir les légumes dans une sauteuse, avec l'oignon, l'ail, et la viande hâchée, comme pour une ratatouille : à l'huile d'olive, bien sûr!
+3) Laissez cuire pendant **25 à 30 min**.
+4) Pendant ce temps, mettez la farine dans un saladier et ajoutez le beurre préalablement découpé en petits carrés.
+5) Travaillez le tout pour obtenir une **chapelure sablée** et bien fine. Ajoutez ensuite le parmesan.
+6) Préchauffez le four à **150°C** (th 5).
+7) Quand les légumes sont prêts, placez-les dans un plat à gratin assez profond et déposez la **chapelure** au-dessus.
+8) Faites cuire au four pendant **30 min**. Placez une feuille de papier alu au-dessus du plat, si la **chapelure** brunit trop.
 
 # Variante
 

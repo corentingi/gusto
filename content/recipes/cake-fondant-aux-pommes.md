@@ -44,8 +44,10 @@ Cake aux pommes préféré de Corentin, Aloïs et Ina.
 
 # Préparation
 
-- Couper les pommes en cubes d'un centimètre
-- Mélanger tous les ingrédient ensemble
+1) Couper les pommes en cubes d'un centimètre
+2) Préchauffer le four à 200°C
+3) Mélanger tous les ingrédient ensemble
+4) Cuire environs 40 minutes
 
 # Variante
 

@@ -21,8 +21,8 @@ Adapter la durée de cuisson en fonction du plat et du four.
 
 # Préparation
 
-- Préchauffer le four à 165°C
-- Faire fondre le beurre avec le chocolat
-- Batter les oeuds et le sucre
-- Ajouter la farine puis le mélange beurre-chocolat
-- Cuire au four pendant 20 minutes
+1) Préchauffer le four à 165°C
+2) Faire fondre le beurre avec le chocolat
+3) Batter les oeuds et le sucre
+4) Ajouter la farine puis le mélange beurre-chocolat
+5) Cuire au four pendant 20 minutes
