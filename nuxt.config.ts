@@ -21,4 +21,9 @@ export default defineNuxtConfig({
 
   devtools: { enabled: true },
   modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "@nuxt/image"],
+
+  routeRules: {
+    // Prerender all recipes pages
+    '/recipes/*': { prerender: true },
+  }
 })
